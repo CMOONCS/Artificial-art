@@ -1,4 +1,4 @@
-#Artificial Art:  An AI-driven Creativity
+# Artificial Art:  An AI-driven Creativity
 ![Artificial Art:  An AI-driven Creativity](/AI-art.png)
 # Image Generation <br>
 - ### [Face Images (Facebook AI Rearch)](https://poloclub.github.io/ganlab/)<br>
