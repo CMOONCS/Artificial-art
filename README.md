@@ -14,7 +14,7 @@
 # Music Generation <br>
 - ## [Music Generation (AI Duet Demo)](https://experiments.withgoogle.com/ai/ai-duet/view/)<br>
 # Poetry Generation <br>
-- ##[Creative GAN project](https://github.com/Machine-Learning-Tokyo/Poetry-GAN)<br>
+- ## [Creative GAN project](https://github.com/Machine-Learning-Tokyo/Poetry-GAN)<br>
 # Real Face Gerated from AI
 - ## [Real Faces created by AI](https://thispersondoesnotexist.com)<br>
 # Others
