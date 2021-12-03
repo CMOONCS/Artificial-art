@@ -25,4 +25,9 @@
 - ### [DeOldify](https://deoldify.ai)<br>
 # References:
 - [Shahriar, S. (2021). GAN Computers Generate Arts? A Survey on Visual Arts, Music, and Literary Text Generation using Generative Adversarial Network. arXiv preprint arXiv:2108.03857.](https://arxiv.org/pdf/2108.03857.pdf)<br>
-- 
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+-
