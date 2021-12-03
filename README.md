@@ -1,2 +1,1 @@
-# Artificial-art
-Artificial Art:  An AI-driven Creativity
+#Artificial Art:  An AI-driven Creativity
