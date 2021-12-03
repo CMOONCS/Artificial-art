@@ -14,4 +14,4 @@
 - ## [AnimeGAN](https://github.com/TonyLianLong/AnimeGAN.js)<br>
 - ## [CartoonGAN](https://ai.minivision.cn/#/coreability/cartoon)<br>
 - ## [Monet2Photo](https://make-a-monet.herokuapp.com)<br>
-- ##[DeOldify](https://deoldify.ai)<br>
+- ## [DeOldify](https://deoldify.ai)<br>
