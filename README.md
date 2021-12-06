@@ -5,6 +5,7 @@
 - ### [Image Style Transfer (Image-to-Image)](https://affinelayer.com/pixsrv/)</br>
 - ### [Doodles to Pictures](https://mitmedialab.github.io/GAN-play/)<br>
 - ### [Paiting Pictures (GANPaint interactive Demo)]( https://gandissect.csail.mit.edu)<br>
+- ### [Painiting Pictures (GANPaint GAUGAN2)](gaugan.org/gaugan2/)
 # Landscape Genaration <br>
 - ### [Landscape Generation (NVDIA GAUGAN)](https://www.nvidia.com/en-us/studio/canvas/)<br>
 # Sketch Generation <br>
