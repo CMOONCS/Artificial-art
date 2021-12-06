@@ -26,9 +26,6 @@
 - ### [DeOldify](https://deoldify.ai)<br>
 # References:
 - [Shahriar, S. (2021). GAN Computers Generate Arts? A Survey on Visual Arts, Music, and Literary Text Generation using Generative Adversarial Network. arXiv preprint arXiv:2108.03857.](https://arxiv.org/pdf/2108.03857.pdf)<br>
-- <br>
-- <br>
-- <br>
-- <br>
-- <br>
--
+- [Bau, D., Zhu, J. Y., Strobelt, H., Zhou, B., Tenenbaum, J. B., Freeman, W. T., & Torralba, A. (2018). Gan dissection: Visualizing and understanding generative adversarial networks. arXiv preprint arXiv:1811.10597.](https://openreview.net/pdf?id=Hyg_X2C5FX)<b>
+- [Park, T., Liu, M. Y., Wang, T. C., & Zhu, J. Y. (2019). Semantic image synthesis with spatially-adaptive normalization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2337-2346).](https://arxiv.org/pdf/1903.07291.pdf)<br>
+
