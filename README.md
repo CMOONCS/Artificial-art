@@ -6,7 +6,7 @@
 - ### [Doodles to Pictures](https://mitmedialab.github.io/GAN-play/)<br>
 - ### [Paiting Pictures (GANPaint interactive Demo)]( https://gandissect.csail.mit.edu)<br>
 # Landscape Genaration <br>
-- ### [Landscape Generation (NVDIA GAUGAN)](nvidia-research-mingyuliu.com/gaugan)<br>
+- ### [Landscape Generation (NVDIA GAUGAN)](https://www.nvidia.com/en-us/studio/canvas/)<br>
 # Sketch Generation <br>
 - ### [Sketch Generation (Sketch-RNN)](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html)<br>
 # Layout Plans <br>
