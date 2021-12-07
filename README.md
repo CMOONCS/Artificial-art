@@ -1,7 +1,7 @@
 #  Artificial Art:  An AI-driven Creativity
 ![Artificial Art:  An AI-driven Creativity](/AI-art.png)
 # Image Generation <br>
-- ### [Face Images (Facebook AI Rearch)](https://poloclub.github.io/ganlab/)<br>
+- ### [Face Images (Facebook AI Rearch)](https://carpedm20.github.io/faces/)<br>
 - ### [Image Style Transfer (Image-to-Image)](https://affinelayer.com/pixsrv/)</br>
 - ### [Doodles to Pictures](https://mitmedialab.github.io/GAN-play/)<br>
 - ### [Paiting Pictures (GANPaint interactive Demo)]( https://gandissect.csail.mit.edu)<br>
