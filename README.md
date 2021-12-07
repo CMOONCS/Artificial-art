@@ -11,7 +11,7 @@
 # Sketch Generation <br>
 - ### [Sketch Generation (Sketch-RNN)](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html)<br>
 # Layout Plans <br>
-- ### [Layout plans](www.houseganpp.com)<br>
+- ### [Layout plans](http://www.houseganpp.com)<br>
 # Music Generation <br>
 - ### [Music Generation (AI Duet Demo)](https://experiments.withgoogle.com/ai/ai-duet/view/)<br>
 # Poetry Generation <br>
